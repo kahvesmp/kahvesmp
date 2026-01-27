@@ -5,7 +5,6 @@
   <title>SMP Sunucumuz - play.sunucuip.xyz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    /* Sayfa genel stili */
     body {
       margin: 0;
       padding: 0;
@@ -15,7 +14,6 @@
       text-align: center;
     }
 
-    /* Başlıklar */
     h1 {
       margin-top: 50px;
       font-size: 3em;
@@ -37,7 +35,6 @@
       font-size: 1.2em;
     }
 
-    /* Kart stili */
     .card {
       background: #1a1a1a;
       display: inline-block;
@@ -51,7 +48,6 @@
       transform: scale(1.05);
     }
 
-    /* Buton stili */
     a.button {
       display: inline-block;
       padding: 12px 25px;
@@ -70,7 +66,6 @@
       transform: scale(1.05);
     }
 
-    /* Özellik kartları */
     .features {
       display: flex;
       justify-content: center;
@@ -92,7 +87,6 @@
       transform: scale(1.05);
     }
 
-    /* Mobil uyumluluk */
     @media (max-width: 600px) {
       h1 {
         font-size: 2em;
