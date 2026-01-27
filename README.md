@@ -12,8 +12,11 @@
   <h2>🎮 Sunucu IP</h2>
   <h3 style="color:#00ff99">play.sunucuip.xyz</h3>
 
-  <p>
-    <a href="#" style="color:#00aaff">Discord Sunucumuz</a>
+  <p style="margin-top:20px">
+    <a href="https://discord.gg/qaCZTVCw5v" target="_blank"
+       style="color:#00aaff;font-size:18px;text-decoration:none;">
+       💬 Discord Sunucumuza Katıl
+    </a>
   </p>
 
   <p style="margin-top:40px;color:gray">
