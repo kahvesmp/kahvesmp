@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>SMP Sunucusu</title>
+  SMP Sunucusu
 </head>
 
 <body style="background:#0f0f0f;color:white;text-align:center;font-family:Arial">
