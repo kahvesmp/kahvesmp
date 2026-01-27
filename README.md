@@ -1,16 +1,24 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>SMP Sunucusu</title>
+</head>
+<body style="background:#0f0f0f;color:white;text-align:center;font-family:Arial">
 
-<!--
-**kahvesmp/kahvesmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>🔥 SMP SUNUCUMUZA HOŞ GELDİN 🔥</h1>
+  <p>Herkese eşit • Lag yok • Pay2Win yok</p>
 
-Here are some ideas to get you started:
+  <h2>🎮 Sunucu IP</h2>
+  <h3 style="color:#00ff99">play.sunucuip.xyz</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <a href="#" style="color:#00aaff">Discord Sunucumuz</a>
+  </p>
+
+  <p style="margin-top:40px;color:gray">
+    © SMP Sunucusu
+  </p>
+
+</body>
+</html>
