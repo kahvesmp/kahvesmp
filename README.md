@@ -23,7 +23,7 @@
 
 <!-- VOTE / DAILY -->
 <p style="margin-top:30px">
-  <a href="https://minecraft-mp.com/server/XXXXXX/vote/" target="_blank"
+  <a href="https://minecraft-mp.com/server/353675/vote/" target="_blank"
      style="
      display:inline-block;
      padding:12px 25px;
