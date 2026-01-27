@@ -21,25 +21,18 @@
     </a>
   </p>
 
-  <!-- VOTE / DAILY -->
-  <p style="margin-top:30px">
-    <a href="#"
-       style="
-       display:inline-block;
-       padding:12px 25px;
-       background:#00ff99;
-       color:#000;
-       font-size:18px;
-       border-radius:8px;
-       text-decoration:none;
-       font-weight:bold;">
-       🎁 Günlük Ödül Al
-    </a>
-  </p>
-
-  <p style="margin-top:40px;color:gray">
-    © SMP Sunucusu
-  </p>
-
-</body>
-</html>
+<!-- VOTE / DAILY -->
+<p style="margin-top:30px">
+  <a href="https://minecraft-mp.com/server/XXXXXX/vote/" target="_blank"
+     style="
+     display:inline-block;
+     padding:12px 25px;
+     background:#00ff99;
+     color:#000;
+     font-size:18px;
+     border-radius:8px;
+     text-decoration:none;
+     font-weight:bold;">
+     🗳️ Vote At & Günlük Ödül Al
+  </a>
+</p>
